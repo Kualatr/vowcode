@@ -22,23 +22,23 @@ for (let rank in ranks) {
 
 
 const IDler = {
-  botID: "766551568500916225",
-  botToken: "NzY2NTUxNTY4NTAwOTE2MjI1.X4lAxw.-_ecnNI8wc8dfMJhyL-RBBWuYvY",
-  botSecret: "fvfze0hFH5qADNCf7Bs1WJuL8ksob-D-",
+  botID: "ıd",
+  botToken: "token",
+  botSecret: "secret",
   botCallbackURL: "https://vowcode.glitch.me/callback",
-  sunucuID: "757314745555615846",
+  sunucuID: "ıd",
   sunucuDavet: "https://discord.gg/3xz99uY",
-  kodLogKanalı: "757317202398674985",
-  sahipRolü: "766553151150358538",
-  adminRolü: "766554840527536139",
-  kodPaylaşımcıRolü: "766555885593296898",
-  boosterRolü: "766558060218548245",
-  kodPaylaşamayacakRoller: ["766559054641758208", "766559054641758208"],
-  hazırAltyapılarRolü: "766560188433432647",
-  hazırSistemlerRolü: "766560188433432647",
-  elmasKodlarRolü: "Elmas",
-  altınKodlarRolü: "766560378905559040",
-  normalKodlarRolü: "766560032577683467"
+  kodLogKanalı: "ıd",
+  sahipRolü: "ıd",
+  adminRolü: "ıd",
+  kodPaylaşımcıRolü: "ıd",
+  boosterRolü: "ıd",
+  kodPaylaşamayacakRoller: ["ıd", "ıd"],
+  hazırAltyapılarRolü: "ıd",
+  hazırSistemlerRolü: "ıd",
+  elmasKodlarRolü: "ıd",
+  altınKodlarRolü: "ıd",
+  normalKodlarRolü: "ıd"
 };
 
 const app = express();
